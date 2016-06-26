@@ -1,1 +1,1 @@
-This is in main.txt, which is in the uppermost repo directory
+This is in main.txt, which is in the uppermost repo directory.
