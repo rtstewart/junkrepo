@@ -1,0 +1,3 @@
+this is one level below the main repo directory
+
+added this line to see if it gets noticed by Git

@@ -1,0 +1,2 @@
+/Users/MYOB/git-practice-junk/junkrepo
+above was put there with pwd command
